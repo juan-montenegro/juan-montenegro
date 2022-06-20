@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-4th year BA in Electronics Engineering student passionate about programming and emerging technologies. 
+4th year (5 years degree) Electronics Engineering student passionate about programming and emerging technologies. 
 
 I see with great enthusiasm how the quality of life can be improved with technology. The advances made in the last century have been so great that someone at the time couldn't even begin to imagine.
 
-Self-learning about artificial intelligence, machine learning and some web development to satisfy my curiosity.
+Self-learning about artificial intelligence, machine learning and some web development.
 
 ---
