@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-4th year (5 years degree) Electronics Engineering student passionate about programming and emerging technologies. 
+Final year Electronics Engineering student passionate about programming and emerging technologies. 
 
 I see with great enthusiasm how the quality of life can be improved with technology. The advances made in the last century have been so great that someone at the time couldn't even begin to imagine.
 
