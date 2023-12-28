@@ -18,6 +18,6 @@ Final year Electronics Engineering student passionate about programming and emer
 
 I see with great enthusiasm how the quality of life can be improved with technology. The advances made in the last century have been so great that someone at the time couldn't even begin to imagine.
 
-Self-learning about artificial intelligence, machine learning and some web development.
+Enthusiast about deep learning and software development.
 
 ---
