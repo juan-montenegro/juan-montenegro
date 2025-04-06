@@ -33,7 +33,7 @@ I'm particularly interested in bridging OT and IT using my background on softwar
 
 ## Tech Stacks
 
-* **IoT:** Node-Red, MQTT, Grafrana, Industrial Protocols (Modbus TCP/RTU).
+* **IoT:** Node-Red, InfluxDB, TimescaleDB, MQTT, Grafrana, Industrial Protocols (Modbus TCP/RTU).
 * **Full-Stack Development:** Python (Django, Django REST framework, celery), Javascript, HTML/CSS, Java, SQL (MySQL, PostgreSQL), redis, Firebase, docker.
 * **Mobile Development:** Dart (Flutter), Java, Android.
 
