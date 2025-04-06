@@ -20,7 +20,7 @@ Hi there, I'm Juan Montenegro.
 
 Final year Electronics Engineering student with background on  Full-Stack applications that integrate with IIoT applications using industrial protocols. 
 
-I'm particularly interested in bridging OT and IT using my background on Electronics. 
+I'm particularly interested in bridging OT and IT using my background on software development and Electronics. 
 
 ## Top Skills
 
