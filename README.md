@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Juan
-
 <!--
 **juan-montenegro/juan-montenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Final year Electronics Engineering student passionate about programming and emerging technologies. 
+## Hi there 👋,
 
-I see with great enthusiasm how the quality of life can be improved with technology. The advances made in the last century have been so great that someone at the time couldn't even begin to imagine.
+Hi there, I'm Juan Montenegro.
 
-Enthusiast about deep learning and software development.
+## Summary
+
+Final year Electronics Engineering student with background on  Full-Stack applications that integrate with IIoT applications using industrial protocols. 
+
+I'm particularly interested in bridging OT and IT using my background on Electronics. 
+
+## Top Skills
+
+* Full-Stack development (3 years)
+* Java (3 years)
+* Python (3 years)
+* Flutter (3 years)
+* C (2 years)
+* Docker (1 year)
+
+## Tech Stacks
+
+* IoT: Node-Red, MQTT, Grafrana, Industrial Protocols (Modbus TCP/RTU).
+* Full-Stack Development: Python (Django, Django REST framework, celery), Javascript, HTML/CSS, Java, SQL (MySQL, PostgreSQL), redis, Firebase, docker.
+* Mobile Development: Dart (Flutter), Java, Android.
 
 ---
