@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋,
+## Hi there 👋
 
 Hi there, I'm Juan Montenegro.
 
